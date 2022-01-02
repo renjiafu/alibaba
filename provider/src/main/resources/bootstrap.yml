@@ -1,0 +1,12 @@
+# Nacos认证信息
+spring:
+  application:
+    name: providerapp
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      config:
+        username: nacos
+        password: nacos
+        file-extension: yaml
+

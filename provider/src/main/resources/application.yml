@@ -1,0 +1,13 @@
+# 服务端口
+server:
+  port: 8081
+
+# spring相关
+spring:
+  application:
+    name: providerapp
+#  cloud:
+#    sentinel:
+#      transport:
+#        port: 8719
+#        dashboard: localhost:8080

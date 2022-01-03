@@ -1,0 +1,10 @@
+# tomcat
+server:
+  port: 8090
+
+# spring
+spring:
+  application:
+    name: consumerapp
+
+
